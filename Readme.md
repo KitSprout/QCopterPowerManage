@@ -1,4 +1,4 @@
-﻿QCopterWP
+﻿﻿QCopterWP
 ========
 * Author      : [Wayne-Weng](https://github.com/Wayne-Weng)
 * Version     : v0.0
@@ -7,7 +7,7 @@
 
 Description
 ========
-QCopteWP 是一個具有無線電力傳輸功能的四軸電源管理裝置，可以無線充電並管理以及計算電量等資訊。
+QCopteWP 是一個具有無線電力傳輸功能的電源管理裝置，可以無線充電並管理以及計算電量等資訊。
 
 無線電力　WirelessPower
 ========
